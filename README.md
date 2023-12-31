@@ -18,4 +18,11 @@ Currency Converter is a simple React application that allows users to convert am
 
    ```bash
    git clone https://github.com/your-username/currency-converter.git
+   ```
+2. Change Directory
+   ```
+   cd currency-converter
+   ```
+
+
 
